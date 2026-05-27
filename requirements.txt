@@ -1,0 +1,34 @@
+# ─── LangChain ────────────────────────────────────────────────────────────────
+# O "cérebro" do projeto. Fornece o framework para criar o agente,
+# definir ferramentas (tools) e orquestrar o raciocínio do LLM.
+langchain-core
+langchain-groq          # integração específica com a API da Groq
+
+# ─── LangGraph ────────────────────────────────────────────────────────────────
+# Extensão do LangChain para criar agentes com estado (grafos).
+# É o que permite o loop ReAct: o agente pensa → age → observa → repete.
+langgraph
+
+# ─── LLM ──────────────────────────────────────────────────────────────────────
+# Cliente da API Groq (modelos Llama 3.3, Mixtral — gratuitos no free tier).
+groq
+
+# ─── Coleta de dados ──────────────────────────────────────────────────────────
+# Requisições HTTP — para chamar a API oculta do SRE da CVM e o r.jina.ai
+requests
+
+# Playwright — para scraping de páginas com proteção contra bots (BTG, etc.)
+# Após instalar, rode também: playwright install firefox
+playwright
+
+# ─── Manipulação de dados ─────────────────────────────────────────────────────
+# Leitura e análise dos CSVs da CVM, criação de tabelas para o agente
+pandas
+
+# ─── Interface ────────────────────────────────────────────────────────────────
+# Dashboard web interativo — filtros, gráficos, chat com o agente
+streamlit
+
+# ─── Utilitários ──────────────────────────────────────────────────────────────
+# Carrega o .env com a GROQ_API_KEY automaticamente
+python-dotenv

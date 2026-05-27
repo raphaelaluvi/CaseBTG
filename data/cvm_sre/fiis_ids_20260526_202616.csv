@@ -1,0 +1,8 @@
+﻿id_requerimento;numero_processo;numero_registro;tipo_ativo;tipo_oferta;rito_oferta;status;fundo_nome;fundo_cnpj;valor_total;quantidade_cotas;preco_cota;data_registro;data_inicio;data_encerramento;segmento;serie;regime_fiduciario;garantias;coordenador;coordenador_cnpj;taxa_final;demanda_total;bookbuilding;publico_alvo;coletado_em
+;SRE/1615/2026;CVM/SRE/AUT/FII/PRI/2026/167;;OFERTA_REGULAR;;Registro Concedido;;;300.000.000,0000;;;;25/05/2026;;;;;;;;;;;;2026-05-26T20:26:00.016644
+;SRE/1591/2026;CVM/SRE/AUT/FII/PRI/2026/161;;OFERTA_REGULAR;;Registro Concedido;;;20.000.000,0000;;;;21/05/2026;;;;;;;;;;;;2026-05-26T20:26:01.582585
+;SRE/1602/2026;CVM/SRE/AUT/FII/PRI/2026/162;;OFERTA_REGULAR;;Registro Concedido;;;110.000.000,0000;;;;22/05/2026;;;;;;;;;;;;2026-05-26T20:26:04.978661
+;SRE/1606/2026;CVM/SRE/AUT/FII/PRI/2026/164;;OFERTA_REGULAR;;Registro Concedido;;;2.175.000,0000;;;;;;;;;;;;;;;;2026-05-26T20:26:07.447888
+;SRE/1604/2026;CVM/SRE/AUT/FII/PRI/2026/163;;OFERTA_REGULAR;;Registro Concedido;;;50.000.000,0000;;;;22/05/2026;;;;;;;;;;;;2026-05-26T20:26:09.069178
+;SRE/1609/2026;CVM/SRE/AUT/FII/PRI/2026/165;;OFERTA_REGULAR;;Registro Concedido;;;375.000.000,0000;;;;22/05/2026;;;;;;;;;;;;2026-05-26T20:26:10.968488
+;SRE/1613/2026;CVM/SRE/AUT/FII/PRI/2026/166;;OFERTA_REGULAR;;Registro Concedido;;;1.876.745.938,5400;;;;22/05/2026;;;;;;;;;;;;2026-05-26T20:26:12.056358

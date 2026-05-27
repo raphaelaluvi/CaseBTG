@@ -1,0 +1,27 @@
+# Ambiente virtual
+venv/
+ENV/
+env/
+
+# Variáveis sensíveis
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Dados temporários
+data/temp/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml

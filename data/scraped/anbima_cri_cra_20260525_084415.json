@@ -1,0 +1,122 @@
+[
+  {
+    "codigo": "13F0056986",
+    "emissor": "TSC JARAGUÁ DO SUL GARDEN SHOPPING S.A.",
+    "indexador": "IPCA + 6,0000%",
+    "taxa": "IPCA + 6,0000%",
+    "duration": null,
+    "vencimento": "05/12/2035",
+    "tipo": "CRI",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "CRA019001E7",
+    "emissor": "KLABIN S.A.",
+    "indexador": "IPCA + 4,5081%",
+    "taxa": "IPCA + 4,5081%",
+    "duration": "434,19",
+    "vencimento": "15/03/2029",
+    "tipo": "CRA",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "CRA019003JY",
+    "emissor": "KLABIN S.A.",
+    "indexador": "IPCA + 3,5000%",
+    "taxa": "IPCA + 3,5000%",
+    "duration": "480,99",
+    "vencimento": "15/06/2029",
+    "tipo": "CRA",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "CRA019003V2",
+    "emissor": "RAÍZEN ENERGIA S.A.",
+    "indexador": "100,0000% DI",
+    "taxa": "100,0000% DI",
+    "duration": null,
+    "vencimento": "16/07/2029",
+    "tipo": "CRA",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "CRA019003V3",
+    "emissor": "RAÍZEN ENERGIA S.A.",
+    "indexador": "IPCA + 3,6020%",
+    "taxa": "IPCA + 3,6020%",
+    "duration": null,
+    "vencimento": "16/07/2029",
+    "tipo": "CRA",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "19H0262186",
+    "emissor": "REDE D'OR SÃO LUIZ S.A.",
+    "indexador": "IPCA + 3,4465%",
+    "taxa": "IPCA + 3,4465%",
+    "duration": null,
+    "vencimento": "15/08/2029",
+    "tipo": "CRI",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "CRA020001US",
+    "emissor": "VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S.A.",
+    "indexador": "IPCA + 5,7000%",
+    "taxa": "IPCA + 5,7000%",
+    "duration": "129,38",
+    "vencimento": "15/06/2027",
+    "tipo": "CRA",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "CRA020001P7",
+    "emissor": "RAÍZEN ENERGIA S.A.",
+    "indexador": "IPCA + 5,4000%",
+    "taxa": "IPCA + 5,4000%",
+    "duration": null,
+    "vencimento": "15/06/2027",
+    "tipo": "CRA",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "CRA020001P8",
+    "emissor": "RAÍZEN ENERGIA S.A.",
+    "indexador": "IPCA + 5,8000%",
+    "taxa": "IPCA + 5,8000%",
+    "duration": null,
+    "vencimento": "17/06/2030",
+    "tipo": "CRA",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  },
+  {
+    "codigo": "CRA020002GZ",
+    "emissor": "BRF S.A.",
+    "indexador": "IPCA + 5,3000%",
+    "taxa": "IPCA + 5,3000%",
+    "duration": "277,32",
+    "vencimento": "15/07/2027",
+    "tipo": "CRA",
+    "_fonte": "anbima_cri_cra",
+    "_coletado_em": "2026-05-25T08:44:15.875604",
+    "_data_referencia": "2026-05-25"
+  }
+]
